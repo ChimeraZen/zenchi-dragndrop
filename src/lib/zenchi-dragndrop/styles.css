@@ -1,0 +1,7 @@
+:local(.container) {
+  position: relative;
+}
+
+:local(.container [draggable]) {
+  position: absolute;
+}
